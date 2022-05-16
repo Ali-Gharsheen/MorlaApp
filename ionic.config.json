@@ -1,0 +1,7 @@
+{
+  "name": "morlaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
